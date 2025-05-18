@@ -1,20 +1,32 @@
-DisneyMovies Recommender System
+# DisneyMovies Recommender System 🎬✨  
 
+## Overview  
+This project is a **DisneyMovies Recommender System** designed to suggest Disney films based on user preferences. It leverages **machine learning and filtering techniques** to deliver personalized movie recommendations, helping users discover exciting Disney titles they might enjoy.  
 
+## Features  
+- **Personalized recommendations** based on user preferences  
+- **Machine learning techniques** for improved accuracy  
+- **Interactive UI** using **Streamlit**  
+- **Scalable dataset** with over a million movies (in progress)  
 
-To run the application, users must first install Streamlit
-After installing Streamlit, open the terminal and execute the following command:
+## Requirements  
+Ensure you have the following dependencies installed:  
+- Python  
+- Streamlit  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- NLTK  
+- Scikit-learn  
 
+## Installation & Setup  
+1. Clone the repository or download the files.  
+2. Install the required dependencies using:  
+   ```bash
+   pip install -r requirements.txt
+
+## Run The Application Using
 streamlit run app.py
 
-
-
-
-
-
-
-
-
-
-I'm currently working on an exciting update—expanding the movie dataset to include over a million titles! This will enhance the recommendation system, providing more diverse and accurate movie suggestions. Stay tuned for more improvements!
-Let me know if you need any refinements.
+## Future Updates
+I’m currently working on expanding the movie dataset to include over a million titles, improving the recommendation system for more diverse and accurate suggestions. Stay tuned for exciting new features and enhancements!
