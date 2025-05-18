@@ -1,0 +1,7 @@
+setup.py
+SRC_repo.egg-info/PKG-INFO
+SRC_repo.egg-info/SOURCES.txt
+SRC_repo.egg-info/dependency_links.txt
+SRC_repo.egg-info/requires.txt
+SRC_repo.egg-info/top_level.txt
+src/__init__.py
